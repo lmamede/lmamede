@@ -28,7 +28,7 @@
 🎓 Técnica em Informática pelo **CEFET/RJ (2017)**, Cientista da Computação pela **UFRJ (2024)** e Mestranda no **PESC/COPPE/UFRJ**  </br></br>
 💻 Servidora da **UFRJ** desde 2018, como desenvolvedora do **SIGA** (Sistema Integrado de Gestão Acadêmica da UFRJ)</br></br>
 💡 Trabalho com desenvolvimento web, **DevSecOps** e visualização de dados institucionais  </br></br>
-🧠 Interesses em modelos estatísticos e **machine learning eficiente**, com foco em segurança da informação e otimização de infraestrutura  </br>
+🧠 Interesses em modelos estatísticos e **machine learning eficiente**, com foco em segurança da informação e otimização de infraestrutura
 
 
 ---
@@ -38,8 +38,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,nodejs,docker,linux,postgres" />
 </p>
+</br>
 
----
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmamede&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=bd93f9&text_color=c9d1d9&bg_color=0d1117"/>
