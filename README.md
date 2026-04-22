@@ -32,8 +32,11 @@
 ---
 
 </br>
-<h3 align="center">Tecnologias</h3>
+<p align="center">
+  <img src="https://github.com/lmamede/lmamede/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
+<h3 align="center">Tecnologias</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,nodejs,docker,linux,postgres" />
 </p>
@@ -45,9 +48,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmamede&layout=compact&theme=tokyonight&title_color=ff79c6&text_color=c9d1d9&bg_color=0d1117"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/lmamede/lmamede/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <h3 align="center">Comunidades</h3>
 
