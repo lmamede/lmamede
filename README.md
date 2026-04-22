@@ -12,7 +12,7 @@
 
 ---
 
-### ✨ Cientista de Dados • Dev FullStack • SIGA/UFRJ
+### ✨ Cientista de Dados • Dev FullStack
 
 <p align="left">
   <a href="https://github.com/lmamede?tab=repositories&sort=stargazers">
