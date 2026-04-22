@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Dev%20Web-ff79c6?style=flat&labelColor=0d1117"/>
 </p>
 
-<img align="right" width="350" src="https://github.com/user-attachments/assets/a0a10dc9-e1a4-4174-a725-b3272c75a14f" />
+<img align="right" width="300" src="https://github.com/user-attachments/assets/a0a10dc9-e1a4-4174-a725-b3272c75a14f" />
 
 ---
 
