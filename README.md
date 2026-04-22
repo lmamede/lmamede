@@ -30,6 +30,11 @@
 
 
 ---
+
+<p align="center">
+  <img src="https://github.com/lmamede/lmamede/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 </br>
 <h3 align="center">Tecnologias</h3>
 
