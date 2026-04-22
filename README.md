@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Dev%20Web-ff79c6?style=flat&labelColor=0d1117"/>
 </p>
 
-<img align="right" width="450" src="https://github.com/user-attachments/assets/a0a10dc9-e1a4-4174-a725-b3272c75a14f" />
+<img align="right" width="350" src="https://github.com/user-attachments/assets/a0a10dc9-e1a4-4174-a725-b3272c75a14f" />
 
 ---
 
@@ -23,10 +23,7 @@
   </a>
 </p>
 
-🎓 Técnica em Informática pelo **CEFET/RJ (2017)**, Cientista da Computação pela **UFRJ (2024)** e Mestranda no **PESC/COPPE/UFRJ**  </br></br>
-💻 Servidora da **UFRJ** desde 2018, como desenvolvedora do **SIGA** (Sistema Integrado de Gestão Acadêmica da UFRJ)</br></br>
-💡 Trabalho com desenvolvimento web, **DevSecOps** e visualização de dados institucionais  </br></br>
-🧠 Interesses em modelos estatísticos e **machine learning eficiente**, com foco em segurança da informação e otimização de infraestrutura
+Técnica em Informática pelo **CEFET/RJ (2017)**, Cientista da Computação pela **UFRJ (2024)** e Mestranda no **PESC/COPPE/UFRJ**. Servidora da **UFRJ** desde 2018, como desenvolvedora do **SIGA** (Sistema Integrado de Gestão Acadêmica da UFRJ). Trabalho com desenvolvimento web, **DevSecOps** e visualização de dados institucionais. Interesses em modelos estatísticos e **machine learning eficiente**, com foco em segurança da informação e otimização de infraestrutura.
 
 
 ---
