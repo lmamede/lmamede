@@ -23,8 +23,6 @@
   </a>
 </p>
 
-</br>
-
 🎓 Técnica em Informática pelo **CEFET/RJ (2017)**, Cientista da Computação pela **UFRJ (2024)** e Mestranda no **PESC/COPPE/UFRJ**  </br></br>
 💻 Servidora da **UFRJ** desde 2018, como desenvolvedora do **SIGA** (Sistema Integrado de Gestão Acadêmica da UFRJ)</br></br>
 💡 Trabalho com desenvolvimento web, **DevSecOps** e visualização de dados institucionais  </br></br>
