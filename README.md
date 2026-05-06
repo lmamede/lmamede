@@ -1,5 +1,8 @@
 <!-- HEADER -->
-<h1 align="center">💜 Lorena Mamede 💜</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=FF46DB&center=true&multiline=true&width=350&height=40&lines=%F0%9F%92%9C+Lorena+Mamede+%F0%9F%92%9C" alt="Typing SVG" /></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-bd93f9?style=flat&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Cybersecurity-ff79c6?style=flat&labelColor=0d1117"/>
